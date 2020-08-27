@@ -215,7 +215,7 @@ body {
 }
 
 a:hover,
-a:link {
+a:active {
   color: var(--link-color-hover-active);
 }
 
