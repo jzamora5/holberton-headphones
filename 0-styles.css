@@ -168,6 +168,7 @@ template {
   --font-family-1: "Source Sans Pro", sans-serif;
   --font-family-2: "Spin Cycle OT", sans-serif;
   --color-white: white;
+  --section-description-width: 637px;
 
   /* Header */
 
@@ -285,7 +286,7 @@ a:link {
 
 .hero {
   padding-top: 312px;
-  max-width: 637px;
+  max-width: var(--section-description-width);
   text-align: center;
   margin: 0 auto;
 }
