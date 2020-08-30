@@ -8,7 +8,9 @@ The designs were planned for Desktop, Tablet, and Mobile, so the web page was im
 
 ![Holberton Headphones Desktop](https://i.ibb.co/1r4k0WC/01-headphones-desktop-2x.png)
 
-**Tablet (Width: 760 px)![Holberton Headphones Tablet](https://i.ibb.co/Y2FfH6w/02-headphones-tablet-2x.png) px)**
+\*\*Tablet (Width: 760 px)
+
+![Holberton Headphones Tablet](https://i.ibb.co/Y2FfH6w/02-headphones-tablet-2x.png) px)\*\*
 
 \*\*Mobile (Width: 480 px)
 
