@@ -38,7 +38,7 @@ All of the sections contain the respective code in order to support responsivene
 
 [Animations added for "What we do" and "Our results" sections](https://htmlpreview.github.io/?https://github.com/jzamora5/holberton-headphones/blob/master/101-index.html): 101-index.html / 101-styles.css
 
-[SASS Version (File Preview)](https://htmlpreview.github.io/?https://github.com/jzamora5/holberton-headphones/blob/master/102-index.html): 102-index.html / 102-styles.css / 102-styles.scss
+[SASS Version](https://htmlpreview.github.io/?https://github.com/jzamora5/holberton-headphones/blob/master/102-index.html): 102-index.html / 102-styles.css / 102-styles.scss
 
 ## Accessibility
 
