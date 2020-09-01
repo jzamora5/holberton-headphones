@@ -4,17 +4,10 @@ This web page was coded from scratch based on some design models given on [Figma
 
 The designs were planned for Desktop, Tablet, and Mobile, so the web page was implemented with responsiveness to different device sizes.
 
-**Desktop (Width: 1400 px)**
 
-![Holberton Headphones Desktop](https://i.ibb.co/1r4k0WC/01-headphones-desktop-2x.png)
-
-**Tablet (Width: 760 px)**
-
-![Holberton Headphones Tablet](https://i.ibb.co/Y2FfH6w/02-headphones-tablet-2x.png) px)\*\*
-
-**Mobile (Width: 480 px)**
-
-![Holberton Headphones Mobile](https://i.ibb.co/s1zx5NS/03-headphones-mobile-2x.png)
+| **Desktop (Width: 1400 px)**  | **Tablet (Width: 760 px)** | **Mobile (Width: 480 px)** |
+|--|--|--|
+| ![Tablet](https://i.ibb.co/1r4k0WC/01-headphones-desktop-2x.png) | ![enter image description here](https://i.ibb.co/Y2FfH6w/02-headphones-tablet-2x.png) | ![Mobile](https://i.ibb.co/s1zx5NS/03-headphones-mobile-2x.png) |
 
 # Sections
 
